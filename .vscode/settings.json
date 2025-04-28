@@ -1,0 +1,13 @@
+{
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "black-formatter.args": [
+        "--line-length=79",
+    ],
+    // "editor.rulers": [
+    //     {
+    //         "color": "#81f081",
+    //         "column": 79
+    //     },
+    // ]
+}
